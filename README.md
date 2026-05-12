@@ -23,8 +23,8 @@ Hi there 👋, I'm **Melih Güçlü** — full-stack developer from **Afyonkarah
   <a href="https://piklostudio.com"><img src="https://img.shields.io/badge/Piklo%20Studio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Piklo Studio"/></a>
   <a href="https://melihguclu.com.tr"><img src="https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:guclumelih3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://linkedin.com/in/melihguclu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/melihguclu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://instagram.com/melihgucllu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://instagram.com/piklosstudio"><img src="https://img.shields.io/badge/@piklosstudio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Piklo Studio Instagram"/></a>
 </p>
 
 ---
