@@ -2,7 +2,7 @@
 
 Hi there 👋, I'm **Melih Güçlü** from **Afyonkarahisar, Türkiye**.
 🚀 Founder of [**Piklo Studio**](https://piklos.com) — building SaaS, AI tools and bespoke web/mobile experiences.
-✉️ [guclumelih3@gmail.com](mailto:guclumelih3@gmail.com)
+✉️ [info@piklos.com](mailto:info@piklos.com)
 
 ## 🌐 Socials
 
