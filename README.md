@@ -87,15 +87,14 @@ Hi there 👋, I'm **Melih Güçlü** — full-stack developer from **Afyonkarah
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melihguclu3&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=melihguclu3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melihguclu3&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=melihguclu3&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
