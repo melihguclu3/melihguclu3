@@ -1,11 +1,9 @@
-<h1 align="center">💫 About Me</h1>
+# 💫 About Me
 
-<p align="center">
-  Hi there 👋, I'm <strong>Melih Güçlü</strong> — full-stack developer from <strong>Afyonkarahisar, Türkiye</strong>.<br/>
-  🚀 Founder of <a href="https://piklostudio.com"><strong>Piklo Studio</strong></a> — design & development studio.<br/>
-  🛠️ Building SaaS products, AI-powered tools and bespoke web/mobile experiences.<br/>
-  ✉️ Reach me at <a href="mailto:guclumelih3@gmail.com">guclumelih3@gmail.com</a>
-</p>
+Hi there 👋, I'm **Melih Güçlü** — full-stack developer from **Afyonkarahisar, Türkiye**.
+🚀 Founder of [**Piklo Studio**](https://piklostudio.com) — design & development studio.
+🛠️ Building SaaS products, AI-powered tools and bespoke web/mobile experiences.
+✉️ Reach me at [guclumelih3@gmail.com](mailto:guclumelih3@gmail.com)
 
 ---
 
